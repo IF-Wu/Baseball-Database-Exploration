@@ -1,1 +1,1 @@
-# Baseball-Database-Exploration
+# Baseball Database Exploration
